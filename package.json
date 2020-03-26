@@ -1,0 +1,16 @@
+{
+  "name": "wuziqi-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cainsyake",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.2.3"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.2"
+  }
+}
